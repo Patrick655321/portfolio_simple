@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'hacker';
+    src: url('../fonts/GlitchGoblin.ttf');
+}
+
+@font-face {
+    font-family: 'arialNarrow';
+    src: url('../fonts/ArialNarrow7-9YJ9n.ttf');
+}
+.correct-heading {
+    font-family: 'arial', sans-serif; /* Replace with your desired font */
+    font-size: 90px;
+    font-style: oblique;
+    font-weight: bold;
+  }
+  
+  .changing-heading {
+    font-family: 'hacker', monospace; /* Replace with your desired font */
+    font-size: 100px;
+  }
